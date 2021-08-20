@@ -1,0 +1,22 @@
+body{
+background-color: skyblue;
+}
+.centrer{
+    width: 30%;
+}
+form input{
+    width: 100%;
+}
+
+.form-group{
+    margin: 10px ;
+    
+    /* vertical-align: top; */
+}
+label{
+    display: inline-block;
+}
+
+.boutton{
+    border: 1px solide;
+}
